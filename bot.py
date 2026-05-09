@@ -23,7 +23,7 @@ SETUP:
 #  YAHAN APNI DETAILS BHARO — SIRF YAHI EDIT KARNA HAI
 # ================================================================
 
-BOT_TOKEN     = "YAHAN_APNA_TOKEN_DAALO"      # @BotFather se milega
+BOT_TOKEN     = "8612885791:AAH0YECBxvLW-Pr8SigdRGUF2kp06dmFIek"      # @BotFather se milega
 ADMIN_IDS     = [123456789]                    # @userinfobot se apna ID lao
 ADMIN_USERNAME = "@tumhara_username"           # Admin ka Telegram username
 
