@@ -24,7 +24,7 @@ SETUP:
 # ================================================================
 
 BOT_TOKEN     = "8612885791:AAH0YECBxvLW-Pr8SigdRGUF2kp06dmFIek"      # @BotFather se milega
-ADMIN_IDS     = [123456789]                    # @userinfobot se apna ID lao
+ADMIN_IDS     = [6732862108]                    # @userinfobot se apna ID lao
 ADMIN_USERNAME = "@tumhara_username"           # Admin ka Telegram username
 
 BOT_NAME      = "🎬 My Content Bot"
