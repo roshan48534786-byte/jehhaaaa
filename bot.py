@@ -948,7 +948,7 @@ async def btn_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # Token check
-    if BOT_TOKEN == "YAHAN_APNA_TOKEN_DAALO":
+    if BOT_TOKEN == "8612885791:AAH0YECBxvLW-Pr8SigdRGUF2kp06dmFIek":
         print("\n" + "="*55)
         print("  ❌  BOT_TOKEN set nahi hai!")
         print("  bot.py kholo aur CONFIG section mein:")
