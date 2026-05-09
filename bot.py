@@ -952,8 +952,8 @@ def main():
         print("\n" + "="*55)
         print("  ❌  BOT_TOKEN set nahi hai!")
         print("  bot.py kholo aur CONFIG section mein:")
-        print("  BOT_TOKEN = 'apna token yahan daalo'")
-        print("  ADMIN_IDS = [apna user id]")
+        print("  BOT_TOKEN = '8612885791:AAH0YECBxvLW-Pr8SigdRGUF2kp06dmFIek'")
+        print("  ADMIN_IDS = [6732862108]")
         print("="*55 + "\n")
         sys.exit(1)
 
